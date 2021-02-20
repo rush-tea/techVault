@@ -1,0 +1,38 @@
+.tags-heading h3{
+    font-weight: 400;
+    margin-top: 0px;
+    font-size: 20px;
+    margin-bottom: 3px;
+}
+.tags-heading h3 span{
+    font-size: 21px;
+    color: rgb(179, 178, 178);
+}
+
+.tags-values{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tags-values div{
+    box-shadow: inset 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    border: 1px solid rgb(71, 71, 71);
+    font-size: 12px;
+    margin: 3px 5px;
+    padding: 4px;
+}
+.tag-showmore{
+    margin: 10px 0px;
+}
+.tag-showmore h6{
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+}
+.tag-showmore h6 span{
+    font-size: 10px;
+    background:rgb(185, 185, 185);
+    padding:3px 10px;
+}
